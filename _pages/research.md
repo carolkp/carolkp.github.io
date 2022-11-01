@@ -14,7 +14,6 @@ author_profile: true
 # Work in Progress
 
 
-
 # Published
 
 {% for post in site.publications reversed %}
