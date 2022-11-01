@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Carolina Piazza"
 title_separator          : "-"
 name                     : &name "Carolina Piazza"
-description              : &description "personal description"
+description              : &description "Economics Ph.D. Student"
 url                      : https://carolkp.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "carolkp/carolkp.github.io"
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Carolina Piazza"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "3rd year Economics Ph.D Student"
+  location         : "Princeton University"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            :
+  email            : "cpiazza[at]princeton.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
